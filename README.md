@@ -12,9 +12,8 @@ A partir de una imagen facial, el sistema es capaz de predecir:
 - **Género** — masculino o femenino
 - **Etnicidad** — entre 7 grupos: White, Black, Indian, East Asian, Southeast Asian, Middle Eastern y Latino/Hispanic
 
----
 
-## 📦 Dataset
+## Dataset
 
 Se utiliza el dataset **[FairFace](https://huggingface.co/datasets/HuggingFaceM4/FairFace)**, disponible en HuggingFace.
 
